@@ -1,6 +1,6 @@
 # firstdemo
 first git hub repository.
 <br/>
-auther:</br>
+auther:
 monu yadav
 
